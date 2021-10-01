@@ -6,6 +6,9 @@
 
 #lucid = > ORM
   
+  
+# Might have to Install
+
 #Install Argon2 for hashing { npm i phc-argon2 }
 
 #If "config\database.ts" is missing then run "node ace configure @adonisjs/lucid"
