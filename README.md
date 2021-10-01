@@ -1,8 +1,7 @@
-# adonis_setup
 # Libraries installed:
-  jsonwebtoken => to generate and validate token
-  sqlite3 => database
-  lucid = > ORM
+#jsonwebtoken => to generate and validate token
+#sqlite3 => database
+#lucid = > ORM
   
 #Install Argon2 for hashing { npm i phc-argon2 }
 
